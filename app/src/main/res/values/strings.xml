@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="story_dicoding">Story Dicoding</string>
+    <string name="desc_welcome">Bercerita dan berbagi pengalaman di Dicoding</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="welcome_image">Welcome Image</string>
+    <string name="desc_register">Silahkan lengkapi kolom dibawah ini:</string>
+    <string name="errormessage">Password harus lebih dari 8 karakter</string>
+    <string name="errormessageemail">Penulisan E-Mail harus benar</string>
+    <string name="logout">Logout</string>
+    <string name="camera_x">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="silahkan_masukan_email_dan_password_anda">Silahkan masukan email dan password anda</string>
+    <string name="dekskripsi_story">Dekskripsi Story</string>
+    <string name="gambaran_story">Gambaran Story</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps_item">Maps</string>
+    <string name="retry">Retry</string>
+    <string name="kirim_dengan_lokasi">Kirim dengan lokasi</string>
+    <string name="ringkasan_gambaran_cerita">Ringkasan gambaran cerita</string>
+</resources>
